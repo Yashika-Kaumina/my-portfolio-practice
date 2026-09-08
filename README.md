@@ -53,10 +53,13 @@ Welcome to my **personal portfolio website**! This is a fully responsive, modern
 
 ## 📁 Project Structure
 
-📂 **portfolio/**
-├── 📄 `index.html` - Main HTML file
-├── 🎨 `style.css` - Stylesheet
-├── ⚡ `script.js` - JavaScript functionality
-├── 🖼️ `profile_pic.jpg` - Profile photo
-├── 📄 `YASHIKA.pdf` - Resume/CV
-└── 📝 `README.md` - This file
+portfolio/
+├── index.html              # Main HTML file
+├── style.css               # Stylesheet
+├── script.js               # JavaScript functionality
+├── profile_pic.jpg         # Profile photo (hero section)
+├── YASHIKA.pdf             # Resume/CV download
+├── images/                 # Additional images (if any)
+│   ├── project1.png
+│   └── project2.png
+└── README.md               # This file
