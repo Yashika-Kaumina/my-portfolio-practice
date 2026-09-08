@@ -114,4 +114,6 @@ Contributions are welcome! Feel free to:
 4. 🚀 Push to branch (`git push origin feature/AmazingFeature`)
 5. 📬 Open a Pull Request
 
-   
+---
+
+###👤 Author
