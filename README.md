@@ -92,10 +92,10 @@ cd my-portfolio-practice
 <img src="about.png" width="600" alt="About Me Section">
 
 ### 🚀 Skills Section
-<img src="skills.png" width="600" alt="Skills Section">
+<img src="skill.png" width="600" alt="Skills Section">
 
 ### 🚀 Projects Section
-<img src="projects.png" width="600" alt="Projects Section">
+<img src="project.png" width="600" alt="Projects Section">
 
 ### 🚀 Contact Section
 <img src="contact.png" width="600" alt="Contact Section">
