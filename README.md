@@ -131,6 +131,9 @@ Contributions are welcome! Feel free to:
 ## 🙏 Acknowledgments
 
 -🎨 Font Awesome - For beautiful icons
+
 -🔤 Google Fonts - For Poppins font
+
 -☁️ GitHub Pages - For free hosting
+
 -💡 Inspiration - All developers out there!
