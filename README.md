@@ -55,6 +55,7 @@ Welcome to my **personal portfolio website**! This is a fully responsive, modern
 
 portfolio/
 ├── index.html              # Main HTML file
+
 ├── style.css               # Stylesheet
 ├── script.js               # JavaScript functionality
 ├── profile_pic.jpg         # Profile photo (hero section)
