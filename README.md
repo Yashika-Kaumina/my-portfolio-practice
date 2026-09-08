@@ -65,3 +65,20 @@ Welcome to my **personal portfolio website**! This is a fully responsive, modern
 ├── 📄 `YASHIKA.pdf` - Resume/CV
 
 └── 📝 `README.md` - This file
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Any modern web browser (Chrome, Firefox, Edge, Safari)
+- Git (for cloning)
+
+### Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Yashika-Kaumina/Yashi.github.io.git
+
+   cd Yashi.github.io
