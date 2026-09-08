@@ -79,6 +79,7 @@ Welcome to my **personal portfolio website**! This is a fully responsive, modern
   ```bash
 git clone https://github.com/Yashika-Kaumina/my-portfolio-practice.git
 cd my-portfolio-practice
+```
 
 ---
 
