@@ -79,4 +79,22 @@ Welcome to my **personal portfolio website**! This is a fully responsive, modern
   ```bash
 git clone https://github.com/Yashika-Kaumina/my-portfolio-practice.git
 cd my-portfolio-practice
+
+---
+## 📸 Screenshots
+
+### 🏠 Home Section
+![Home Section](home.png)
+
+### 🚀 AboutMe Section
+![AboutMe Section](about.png)
+
+### 🚀 Skills Section
+![Skills Section](skill.png)
+
+### 🚀 Projects Section
+![Projects Section](project.png)
+
+### 🚀 Contact Section
+![Contact Section](contact.png)
    
