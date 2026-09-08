@@ -69,9 +69,6 @@ Welcome to my **personal portfolio website**! This is a fully responsive, modern
 
 ---
 
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
