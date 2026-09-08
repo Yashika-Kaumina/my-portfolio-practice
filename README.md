@@ -51,6 +51,7 @@ Welcome to my **personal portfolio website**! This is a fully responsive, modern
 ## 📁 Project Structure
 
 📂 **portfolio/**
+
 ├── 📄 `index.html` - Main HTML file
 
 ├── 🎨 `style.css` - Stylesheet
