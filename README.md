@@ -86,7 +86,7 @@ cd my-portfolio-practice
 ## 📸 Screenshots
 
 ### 🏠 Home Section
-![Home Section](<img src="home.png" width="600" alt="Home Section">)
+![Home Section]<img src="home.png" width="600" alt="Home Section">
 
 ### 🚀 AboutMe Section
 ![AboutMe Section](about.png)
