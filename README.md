@@ -119,3 +119,5 @@ Contributions are welcome! Feel free to:
 ## 👤 Author
 
 ### Yashika Kaumina
+| **Platform** | **Link** |
+| 🌐 GitHub | @Yashika-Kaumina |
