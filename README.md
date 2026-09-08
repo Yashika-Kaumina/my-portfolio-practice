@@ -120,7 +120,7 @@ Contributions are welcome! Feel free to:
 
 | Platform | Link |
 |----------|-------------|
-| 🌐 GitHub | @Yashika-Kaumina |
+| 🌐 GitHub | [@Yashika-Kaumina](https://github.com/Yashika-Kaumina/Yashika-Kaumina/tree/main) |
 | 💼 LinkedIn | Yashika Kaumina |
 | 📧 Email | yashikamanawadu14@gmail.com |
 | 📱 Phone | +94 78 633 7350 |
