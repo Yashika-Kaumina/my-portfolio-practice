@@ -76,8 +76,7 @@ Welcome to my **personal portfolio website**! This is a fully responsive, modern
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Yashika-Kaumina/my-portfolio-practice.git
-   
+  ```bash
+git clone https://github.com/Yashika-Kaumina/my-portfolio-practice.git
 cd my-portfolio-practice
    
