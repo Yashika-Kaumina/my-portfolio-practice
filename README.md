@@ -89,7 +89,7 @@ cd my-portfolio-practice
 <img src="home.png" width="600">
 
 ### 🚀 AboutMe Section
-![AboutMe Section](about.png)
+<img src="about.png" width="600" alt="About Me Section">
 
 ### 🚀 Skills Section
 ![Skills Section](skill.png)
