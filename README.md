@@ -86,17 +86,17 @@ cd my-portfolio-practice
 ## 📸 Screenshots
 
 ### 🏠 Home Section
-<img src="home.png" width="600">
+<img src="home.png" width="600" alt="Home Section">
 
 ### 🚀 AboutMe Section
 <img src="about.png" width="600" alt="About Me Section">
 
 ### 🚀 Skills Section
-![Skills Section](skill.png)
+<img src="skills.png" width="600" alt="Skills Section">
 
 ### 🚀 Projects Section
-![Projects Section](project.png)
+<img src="projects.png" width="600" alt="Projects Section">
 
 ### 🚀 Contact Section
-![Contact Section](contact.png)
+<img src="contact.png" width="600" alt="Contact Section">
    
