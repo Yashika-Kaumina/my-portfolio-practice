@@ -50,7 +50,7 @@ Welcome to my **personal portfolio website**! This is a fully responsive, modern
 
 ## 📁 Project Structure
 
-📂 **portfolio/**
+📂 **my-portfolio-practice/**
 
 ├── 📄 `index.html` - Main HTML file
 
