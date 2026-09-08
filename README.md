@@ -116,4 +116,6 @@ Contributions are welcome! Feel free to:
 
 ---
 
-###👤 Author
+## 👤 Author
+
+### Yashika Kaumina
