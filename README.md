@@ -124,4 +124,4 @@ Contributions are welcome! Feel free to:
 | 💼 LinkedIn | [Yashika Kaumina](https://www.linkedin.com/in/yashika-kaumina/) |
 | 📧 Email | yashikamanawadu14@gmail.com |
 | 📱 Phone | +94 78 633 7350 |
-| 🌐 Portfolio | https://yashika-kaumina.github.io/my-portfolio-practice/ |
+| 🌐 Portfolio | [Live Demo](https://yashika-kaumina.github.io/my-portfolio-practice/) |
