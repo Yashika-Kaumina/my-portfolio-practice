@@ -80,6 +80,9 @@ Welcome to my **personal portfolio website**! This is a fully responsive, modern
 git clone https://github.com/Yashika-Kaumina/my-portfolio-practice.git
 cd my-portfolio-practice
 ```
+2. **Open the website**
+   - Double-click on index.html OR
+   - Use Live Server extension in VS Code
 
 ---
 
