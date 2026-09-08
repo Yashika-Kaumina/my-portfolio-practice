@@ -148,7 +148,6 @@ For any inquiries, collaborations, or just to say hi! 👋
 
 📱 Phone: +94 78 633 7350
 
-
 👁️ Live Demo: https://yashika-kaumina.github.io/my-portfolio-practice/
 
 <div align="center">
