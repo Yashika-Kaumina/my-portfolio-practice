@@ -118,6 +118,10 @@ Contributions are welcome! Feel free to:
 
 ## 👤 Author
 
-### Yashika Kaumina
-| **Platform** | **Link** |
+| Platform | Link |
+|----------|-------------|
 | 🌐 GitHub | @Yashika-Kaumina |
+| 💼 LinkedIn | Yashika Kaumina |
+| 📧 Email | yashikamanawadu14@gmail.com |
+| 📱 Phone | +94 78 633 7350 |
+| 🌐 Portfolio | https://yashika-kaumina.github.io/my-portfolio-practice/ |
