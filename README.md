@@ -124,4 +124,13 @@ Contributions are welcome! Feel free to:
 | 💼 LinkedIn | [Yashika Kaumina](https://www.linkedin.com/in/yashika-kaumina/) |
 | 📧 Email | yashikamanawadu14@gmail.com |
 | 📱 Phone | +94 78 633 7350 |
-| 🌐 Portfolio | [Live Demo](https://yashika-kaumina.github.io/my-portfolio-practice/) |
+| 🌐 Portfolio | [Github](https://yashika-kaumina.github.io/my-portfolio-practice/) |
+
+---
+
+## 🙏 Acknowledgments
+
+-🎨 Font Awesome - For beautiful icons
+-🔤 Google Fonts - For Poppins font
+-☁️ GitHub Pages - For free hosting
+-💡 Inspiration - All developers out there!
