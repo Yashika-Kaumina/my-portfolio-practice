@@ -1,6 +1,6 @@
 # 🎨 Yashika Kaumina - Portfolio Website
 
-🔗 Live Demo:https://yashika-kaumina.github.io/my-portfolio-practice/
+👁️ **Live Demo**: [https://yashika-kaumina.github.io/my-portfolio-practice/](https://yashika-kaumina.github.io/my-portfolio-practice/)
 
 ---
 
